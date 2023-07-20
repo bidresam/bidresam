@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sampath Kumar Bidre</h1>
-<h3 align="center">👋 Welcome to my GitHub profile! I'm passionate about DevOps and SRE, always seeking to expand my knowledge in these fields.</h3>
+<h3 align="center"> Welcome to my GitHub profile! I'm passionate about DevOps and SRE, always seeking to expand my knowledge in these fields.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 🌱 I’m currently learning **DevSecOps**
